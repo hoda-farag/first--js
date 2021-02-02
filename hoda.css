@@ -1,0 +1,38 @@
+.continer{
+    width:1200px;
+    margin: auto;
+    padding: 0px 20px;
+    }
+    body{
+        background-color:rgb(240, 154, 97);
+    }
+    .header h1{
+        margin-left:400px ;
+        margin-top:100px;
+        font-size: 80px;
+    }
+    .header ul li{
+        list-style: none;
+        display: inline-block;
+        margin-left: 10px;
+      cursor: pointer;
+      background-color: white;
+      border-radius:10px ;
+    }
+    
+    
+    .header ul{
+        margin-left:350px ;  
+        font-size: 40px;
+    }
+    
+    .header .list:hover{
+       background-color: rgb(206, 202, 209); 
+    }
+    .resert{
+        margin-left:300px ;
+        font-size: 20px;
+    }
+    .s1 ,.s2 , .s3 ,.s4{
+      display: none; 
+    }
